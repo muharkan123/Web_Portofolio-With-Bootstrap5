@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DK+Uloopet:wght@100..400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.jumbotron{
+    padding-top: 6rem;
+    background: #ffb8b8;
+}
+
+#projects{
+    background: #ffb8b8;
+}
+
+.tombol{
+    background-color: #ffb8b8;
+    color: white;
+    font-weight: 600;
+}
+
+.tombol:hover{
+    background-color: white;
+    color: #ffb8b8;
+    border: solid 1px #ffb8b8;
+}
+#footer{
+    background-color: #ffb8b8;
+}
+
+.ling{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+.ling:hover{
+    color: rgb(211, 211, 211);
+    transition-duration: 0.3s;
+}
+
+section{
+    padding-top: 4rem;
+}
